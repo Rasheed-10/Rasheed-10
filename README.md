@@ -1,7 +1,7 @@
 ## Hi there welcome to my GitHub page👋
 
 
-## My name is Rasheed Aribidesi
+# My name is Rasheed Aribidesi
 - 🔭 I’m interested in Machine Learning, Deep Learning, and MLOps
 - 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on End-to-End Data Science and Machine Learning projects
