@@ -1,9 +1,6 @@
 ## Hi there welcome to my GitHub page👋
 
-<!--
-**Rasheed-10/Rasheed-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 ## My name is Rasheed Aribidesi
 - 🔭 I’m interested in Machine Learning, Deep Learning, and MLOps
 - 🌱 I’m currently learning MLOps
