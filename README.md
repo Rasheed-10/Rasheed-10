@@ -10,6 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Switched from Chemical Engineering to Data Science because I wanted to predict the future😄
 -->
+  
 
 💻**Tech Stack:**
   
@@ -32,6 +33,7 @@
 
 
 
+
 🧑‍💻**Ongoing Learning:**
 
 MLOps & model deployment
@@ -40,8 +42,8 @@ GitHub Actions & CI/CD for DS workflows
 
 Large Language Models
 
+
+
 🌐**Socials:**
 
-[Medium](https://medium.com/@rasheedaribidesi)
-
-[LinkedIn](https://www.linkedin.com/in/rasheed-aribidesi/)
+[Medium](https://medium.com/@rasheedaribidesi) [LinkedIn](https://www.linkedin.com/in/rasheed-aribidesi/)
