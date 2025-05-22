@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Switched from Chemical Engineering to Data Science because I wanted to predict the future😄
 -->
 
-**Tech Stack:**
+💻**Tech Stack:**
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -32,10 +32,16 @@
 
 
 
-**Ongoing Learning:**
+🧑‍💻**Ongoing Learning:**
 
 MLOps & model deployment
 
 GitHub Actions & CI/CD for DS workflows
 
 Large Language Models
+
+🌐**Socials:**
+
+[Medium](https://medium.com/@rasheedaribidesi)
+
+[LinkedIn](https://www.linkedin.com/in/rasheed-aribidesi/)
