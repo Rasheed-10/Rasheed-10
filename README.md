@@ -40,7 +40,7 @@ MLOps & model deployment
 
 GitHub Actions & CI/CD for DS workflows
 
-Large Language Models
+NLP & Large Language Models
 
 
 
