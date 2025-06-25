@@ -5,7 +5,7 @@
 - 🔭 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on End-to-End Data Science and Machine Learning projects
-- 💬 Ask me about Machine Learning and Deep Learning
+- 💬 Ask me about Machine Learning and MLOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rasheed-aribidesi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Switched from Chemical Engineering to Data Science because I wanted to predict the future😄
