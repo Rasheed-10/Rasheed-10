@@ -1,14 +1,14 @@
 ## Hi there welcome to my GitHub page👋
 
 
-**My name is Rasheed Aribidesi, a data scientist passionate about solving real-world problems with data**
+**My name is Rasheed Aribidesi, a DevOps Engineering passionate about solving real-world problems with technology**
 - 🔭 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on End-to-End Data Science and Machine Learning projects
-- 💬 Ask me about Machine Learning and MLOps
+- 💬 Ask me about DevOps and Cloud Computing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rasheed-aribidesi/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Switched from Chemical Engineering to Data Science because I wanted to predict the future😄
+- ⚡ Fun fact: Fun fact: I transitioned from Chemical Engineering into DevOps to solve real-world problems through cloud, automation and technology.
 -->
   
 
